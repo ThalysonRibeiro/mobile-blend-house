@@ -14,3 +14,5 @@ eas build --platform android
 eas build -p android --profile preview_android
 
     "@types/react-native": "^0.73.0",
+
+    link: https://expo.dev/accounts/thalysonribeiro/projects/mobile-blend-house/builds/0aa905a2-8928-47e5-b17f-506de0310bba
